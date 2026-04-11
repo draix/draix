@@ -1,8 +1,12 @@
 # Hey, I'm Martín 👋
 
-**Co-Founder & former CEO of [Zapia AI](https://zapia.com)** — The first AI personal assistant for Latin America.
+**Co-Founder & former CEO [Tryoabs](https://tryolabs.com) & [Zapia AI](https://zapia.com)** — The first AI personal assistant for Latin America.
 
-Building AI products that reach millions. Serial entrepreneur. Dad. Musician. Dreamer.
+Serial entrepreneur building AI products that reach millions. 
+
+Dad. Musician. Dreamer.
+
+@draix
 
 ---
 
@@ -10,7 +14,7 @@ Building AI products that reach millions. Serial entrepreneur. Dad. Musician. Dr
 
 | Company | What | Status |
 |---------|------|--------|
-| **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (20M+ users) | 🟢 Co-founded |
+| **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (7M+ users) | 🟢 Co-founded |
 | **[Tryolabs](https://tryolabs.com)** | Machine Learning consultancy (110+ people) | 🟢 Co-founded |
 | **[MonkeyLearn](https://monkeylearn.com)** | Text analysis platform | 🔵 Acquired by Medallia |
 | **[UltraDrop](https://ultradrop.io)** | Web3 & NFT platform | 🟢 Co-founded |
@@ -24,7 +28,7 @@ Building AI products that reach millions. Serial entrepreneur. Dad. Musician. Dr
 
 ### 💡 Angel Investments
 
-Scribe AI · Foliume · Ephere Football · Meitre · Loog Guitars · Orange Loops
+Limitless (Acquired by Meta) · Foliume · Meitre · Loog Guitars · Orange Loops 
 
 Co-founder of **AngelClub UY** — Uruguay's first tech angel investor club.
 
