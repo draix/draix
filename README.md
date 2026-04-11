@@ -32,6 +32,14 @@ Limitless (Acquired by Meta) · Foliume · Meitre · Loog Guitars · Orange Loop
 
 Co-founder of **AngelClub UY** — Uruguay's first tech angel investor club.
 
+### 🔬 Open Source from Tryolabs
+
+| Repo | Stars | Description |
+|------|-------|-------------|
+| [**norfair**](https://github.com/tryolabs/norfair) | ⭐ 2.6k | Real-time multi-object tracking for any detector |
+| [**luminoth**](https://github.com/tryolabs/luminoth) | ⭐ 2.4k | Deep Learning toolkit for Computer Vision |
+| [**requestium**](https://github.com/tryolabs/requestium) | ⭐ 1.8k | Integration layer between Requests and Selenium |
+
 ### 🏆 Recognition
 
 - **AIU Award 2019** — First engineer under 40 recognized for contributions to Uruguay's AI industry
