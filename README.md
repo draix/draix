@@ -14,11 +14,11 @@ Dad. Musician. Dreamer.
 
 ### 🚀 What I've Built
 
-| Company | What | Status |
-|---------|------|--------|
+| Company | What |
+|---------|------|
 | **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (7M+ users) | 
 | **[Tryolabs](https://tryolabs.com)** | Machine Learning consultancy (110+ people) | 
-| **[MonkeyLearn](https://monkeylearn.com)** | Text analysis platform | 🔵 Acquired by Medallia |
+| **[MonkeyLearn](https://monkeylearn.com)** | Text analysis platform (Acquired by Medallia) | 
 | **[UltraDrop](https://ultradrop.io)** | Web3 & NFT platform | 
 
 ### 🎓 Background
