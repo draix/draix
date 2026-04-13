@@ -16,9 +16,9 @@ Dad. Musician. Dreamer.
 
 | Company | What |
 |---------|------|
-| **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (7M+ users) | 
-| **[Tryolabs](https://tryolabs.com)** | Machine Learning consultancy (110+ people) | 
-| **[MonkeyLearn](https://monkeylearn.com)** | Text analysis platform (Acquired by Medallia) | 
+| **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (7M+ users, $20M funding) | 
+| **[Tryolabs](https://tryolabs.com)** | Machine Learning consultancy (120+ people) | 
+| **[MonkeyLearn](https://monkeylearn.com)** | No-code AI platform for text analysis (Acquired by Medallia) | 
 | **[UltraDrop](https://ultradrop.io)** | Web3 & NFT platform | 
 
 ### 🎓 Background
