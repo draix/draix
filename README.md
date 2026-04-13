@@ -4,7 +4,7 @@
 
 Serial entrepreneur building AI products that reach millions.
 
-Creating AI companies sinces 2019.  
+Creating AI companies since 2019.  
 
 Dad. Musician. Dreamer.
 
