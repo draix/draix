@@ -2,7 +2,9 @@
 
 **Co-Founder & former CEO [Tryoabs](https://tryolabs.com) & [Zapia AI](https://zapia.com)** — The first AI personal assistant for Latin America.
 
-Serial entrepreneur building AI products that reach millions. 
+Serial entrepreneur building AI products that reach millions.
+
+Creating AI companies sinces 2019.  
 
 Dad. Musician. Dreamer.
 
@@ -14,10 +16,10 @@ Dad. Musician. Dreamer.
 
 | Company | What | Status |
 |---------|------|--------|
-| **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (7M+ users) | 🟢 Co-founded |
-| **[Tryolabs](https://tryolabs.com)** | Machine Learning consultancy (110+ people) | 🟢 Co-founded |
+| **[Zapia AI](https://zapia.com)** | AI assistant for LatAm (7M+ users) | 
+| **[Tryolabs](https://tryolabs.com)** | Machine Learning consultancy (110+ people) | 
 | **[MonkeyLearn](https://monkeylearn.com)** | Text analysis platform | 🔵 Acquired by Medallia |
-| **[UltraDrop](https://ultradrop.io)** | Web3 & NFT platform | 🟢 Co-founded |
+| **[UltraDrop](https://ultradrop.io)** | Web3 & NFT platform | 
 
 ### 🎓 Background
 
